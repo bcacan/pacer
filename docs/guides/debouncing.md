@@ -282,5 +282,3 @@ The `DebouncerState` includes:
 Each framework adapter builds convenient hooks and functions around the debouncer classes. Hooks like `useDebouncer`, or `createDebouncer` are small wrappers that can cut down on the boilerplate needed in your own code for some common use cases.
 
 ---
-
-For asynchronous debouncing (e.g., API calls, async operations), see the [Async Debouncing Guide](../async-debouncing.md).
